@@ -1,24 +1,88 @@
-# Dabble- One App for Sensing & Control
-Whether you’re a student, a teacher, or a hobbyist, Dabble is the perfect place for all your DIYing needs. It transforms your Smartphone into a virtual I/O device and lets you control hardware via Bluetooth, communicate with it, access sensors like accelerometer, GPS, proximity and other features of your Smartphone. It also provides you with dedicated projects compatible with Scratch and Arduino to help you learn by doing.
-Currently Dabble is avaiable for Android users(coming soon for iPhone users) and its is supported on Android version 5.0.0 and above. One can download the app from Google PlayStore with this link given below.
-[https://play.google.com/store/apps/details?id=io.dabbleapp]
+* ### First of all , in order to create your own unique README.md file for your GitHub profile , you need to create a new repository and name it after your username. Then make it public and add a README.md file. This README.md is magic🧙‍♂️🧙‍♀️ and it goes straight to your overview page in your GitHub profile.
 
-The app is designed to provide data of certain features of your smartphone to evive and microcontroller boards like Arduino Uno, Nano and Mega,it also allows you to control them by your Smartphone. The app communicates with these boards via bluetooth modules like HC-05, HC-06 and HM-10. This repository consists of library required on your board side for communication with app.
-Dabble consists of various modules that allows you to control your hardware and access various smartphone features. A brief description of each module is mentioned below:
+---
+<br/>
 
-1)  Led Brightness Control: This module allows you to control digital pin of your hardware through mobile. You can make pins HIGH or LOW, can also change its PWM if PWM functionailty is supported on that pin. You can use this module to control LED brightness and carry other such activities.
-2)  Terminal: Send and receive text and voice commands over Bluetooth between your hardware and smartphone.
-3)  Gamepad: Control devices in analog (Joystick), digital, and accelerometer mode.
-4)  Pin State Monitor: Remotely monitor the live status of devices and debug them.
-5)  Motor Control: Control actuators such as the DC motor and servo motor.
-6)  Inputs: Provide analog and digital inputs via buttons, knobs, and switches.
-7)  Camera: Use the camera of your Smartphone for taking photos and videos, face recognition and colour picking.
-8)  Phone Sensor: Access different sensors of your Smartphone such as the accelerometer, gyroscope, proximity sensor,magnetometer, light meter, sound meter, GPS, temperature sensor, and barometer to make projects and conduct experiments.
-9)  Oscilloscope: Visualise and analyse the input and output signals given to the device using the oscilloscope module.
-10) IoT: Currently consist of Data Logger,Notification and Internet module. However the Internet module is still under development.
-11) Music: Receive commands from the device and play tones, songs, or other recorded files on your Smartphone.
-12) Projects  (Coming Soon): Make dedicated projects to experience different concepts of the real world first-hand.
+* ### I suggest using svg icons in all of your sections(for best appearance in mobile and desktop) , that is why inside this repo you will find an SVG Icons File.You can download any svg that works for you and place it in your README!
 
-# Dabble Library
-As per the module set present in Dabble app the library is also structured in same way. Currently this library is supported on evive and boards like Arduino Uno, Mega and Nano. It consists of certain examples codes which will help you in getting started with various Dabble modules.
-To explore more about Dabble, goto [https://thestempedia.com/docs/dabble/getting-started-with-dabble/]
+---
+<br/>
+
+* ### Then , if you want a video as introduction you just create your own mp4 video or upload one straight to the README.md file by just drag and drop. GitHub makes all the hard work for you!!!! I ❤ GitHub!
+
+---
+<br/>
+
+* ### For the font size of our text , we use the # symbol. One # means bigger font size. More ### mean smaller font size.
+
+---
+<br/>
+
+* ### If you want an image as your introduction you can just use this block of code:
+ 
+ ![image](https://user-images.githubusercontent.com/76062682/139349734-37522568-d514-4170-a18e-b7102d3f92a6.png)
+ 
+ ### where you can align your image wherever you like by just changing the align to right , left or center.
+
+---
+<br/>
+
+* ### For creating a Connect With Me section you need the icons and the links to your accounts. So , here is an example : 
+
+
+### Connect with me:
+
+![connectpng](https://user-images.githubusercontent.com/76062682/139349803-bb5e9117-9d54-4968-aee9-26236078b9d0.png)
+
+---
+
+<br/>
+
+* ### You can use these html tags to separate the sections and create some space between them:
+
+![br](https://user-images.githubusercontent.com/76062682/139349823-dfa3bfb0-504f-4408-9824-2c83b80e7ecf.png)
+
+---
+
+<br />
+
+
+
+* ### For Languages and Tools you can see an example here and of course change the icons to match your knowledge of programming languages and tools!
+
+### Languages and Tools:
+
+
+![tools](https://user-images.githubusercontent.com/76062682/139349833-6d663bda-9e7c-4fe4-bc2f-5386eb2edab8.png)
+
+---
+
+<br/>
+
+* ###  If you want to show off your certificates as I did😝 , here is an example : First in square brackets the name of your certificates and then in parenthesis the link to your certificates as you see below👇
+
+### 📜 Certificates
+
+
+![certificates](https://user-images.githubusercontent.com/76062682/139349857-b501b2cc-dde0-4cd8-b069-a5b7304cf4e6.png)
+
+
+---
+
+<br/>
+
+* ### For the GitHub Stats and Most Used Tools , here is an example :
+
+
+![status](https://user-images.githubusercontent.com/76062682/139349862-1a15c7ea-4da1-4843-aa87-bba211e094b6.png)
+
+
+### The &theme=tokyonight is for the dark mode of the stats. If you want it to be white or any other color , you will need to change the theme.
+### You can find some awesome themes [here](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md).
+
+---
+<br/>
+
+* ### And last but not least , you place your own links to your accounts here to connect them with the above sections!
+
+![accounts](https://user-images.githubusercontent.com/76062682/139349870-2b51ed9f-9220-4601-9ebc-de38b782a052.png)
