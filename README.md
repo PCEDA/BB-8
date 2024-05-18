@@ -55,12 +55,3 @@ Cables macho-hembra para unir los diferentes pines de la placa y el driver
 
 ---
 <br/>
-
-
-
----
-<br/>
-
-* ### And last but not least , you place your own links to your accounts here to connect them with the above sections!
-
-![accounts](https://user-images.githubusercontent.com/76062682/139349870-2b51ed9f-9220-4601-9ebc-de38b782a052.png)
