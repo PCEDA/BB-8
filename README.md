@@ -6,7 +6,7 @@
   
 ---
 <br/>
-* En el repositorio podrás encontrar el código en Arduino Uno que hemos utilizado para programas el funcionamiento de nuestro BB-8, sin embargo; si lo que deseas es saber qué piezas y métodos hemos necesitado para su montaje y funcionamiento físico estás en el lugar adecuado.
+* En el repositorio podrás encontrar el código en Arduino Uno que hemos utilizado para programar el funcionamiento de nuestro BB-8, sin embargo; si lo que deseas es saber qué piezas y métodos hemos necesitado para su montaje y funcionamiento físico estás en el lugar adecuado.
 
 ### Antes de nada debes saber que hemos utilizado la aplicación Dabble sincronizada mediante un chip bluetooth HC-05 como el mostrado a continuación para poder controlar el moviemiento del robot a través de un joystick.
 
@@ -15,15 +15,16 @@ Parte trasera
 <img src="https://github.com/PCEDA/BB-8/assets/169154663/eb4a68ad-f5e8-47ec-8afe-40721c5a18be" alt="Bluetooth Delante" width="300"/>
 Parte delantera
 
-* ### Si nos centramos en los elementos motrices del proyecto, vamos a necesitar dos motores como el mostrado en la figura, al igual que sus respectivas ruedas (importante que estas sean las de la imagen ya que estas al rodar describen un círculo) y una pila para así poder alimentar los motores losciclos necesarios para testear el funcionamiento.
+* ### Si nos centramos en los elementos motrices del proyecto, vamos a necesitar dos motores como el mostrado en la figura, al igual que sus respectivas ruedas (importante que estas sean las de la imagen ya que estas al rodar describen un círculo) y una pila para así poder alimentar los motores durante los ciclos necesarios para testear el funcionamiento.
 <img src="https://github.com/PCEDA/BB-8/assets/169154663/0cf6c82b-fd1d-4f61-ae5c-7cea10beab54" alt="Motor" width="240"/>
 <img src="https://github.com/PCEDA/BB-8/assets/169154663/8c722b81-c45c-46a0-ad7e-fb61e0d660e2" alt="Ruedas" width="240"/>
 <img src="https://github.com/PCEDA/BB-8/assets/169154663/fc1a06ce-79ac-4850-9e8f-77e37f926ca5" alt="Pila" width="240"/>
 
 - ### Además de utilizar la placa Arduino Uno, requeriremos de un driver para controlar más específicamente los dos motores.
-<img src="https://github.com/PCEDA/BB-8/assets/169154663/d7c51210-929e-4922-b8fe-f0f6f93bec72" alt="Driver" width="300"/>
+<img src="https://github.com/PCEDA/BB-8/assets/169154663/f1b5ed74-cd3c-4b1d-8ba7-d96a1894fa79" alt="Arduino Uno" width="350"/>
+<img src="https://github.com/PCEDA/BB-8/assets/169154663/d7c51210-929e-4922-b8fe-f0f6f93bec72" alt="Driver" width="350"/>
 
-* ### En lo que respecta a los cables necesitados, utilizaremos básicamente tres tipos:
+* ### En lo que respecta a los cables, utilizaremos básicamente tres tipos:
 <img src="https://github.com/PCEDA/BB-8/assets/169154663/cc4342b9-9245-4fb8-9bb4-0d247d101bfd" alt="Cable de alimentación" width="500"/>
 
 Un cable de alimentación para conectar la toma de 5V ya sea batería portátil u otro dispositivo con la placa Arduino Uno
@@ -44,7 +45,7 @@ Cables macho-hembra para unir los diferentes pines de la placa y el driver
 <img src="https://github.com/PCEDA/BB-8/assets/169154663/8ad09039-30e5-44bf-a9d6-7f6a4ab63922" alt="Altavoz" width="300"/>
 
 * ## Finalmente, adjuntaremos también alguna imágen de nuestro montaje donde se puede apreciar la forma del _esqueleto_ de nuestro robot así como las semiesferas donde va encerrado.
-  ## Además, adjuntaremos también un par de croquis a mano alzada donde poder apreciar de una forma mucho más visual el lugar en el que hemos colocado los elementos anteriormente mencionados.
+  ## Junto con ello, adjuntamos también un par de croquis a mano alzada donde poder apreciar de una forma mucho más visual el lugar en el que hemos colocado los elementos anteriormente mencionados.
 
 ![Montaje](https://github.com/PCEDA/BB-8/assets/169154663/7c75ad03-3980-4f4f-9b6f-0793d7553f33)
 <img src="https://github.com/PCEDA/BB-8/assets/169154663/a75a9229-79d2-4bde-abe6-9de0174ec185" alt="Dibujo Planta" width="430"/>
