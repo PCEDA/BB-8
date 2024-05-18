@@ -1,4 +1,6 @@
-* ### First of all , in order to create your own unique README.md file for your GitHub profile , you need to create a new repository and name it after your username. Then make it public and add a README.md file. This README.md is magic🧙‍♂️🧙‍♀️ and it goes straight to your overview page in your GitHub profile.
+* ## Antes de que bajes para ver el montaje de nuestro BB-8 nos gustaría presentarnos 😊:
+  ### Somos PCEDA, un grupo de alumnos de Ingeniería Mecánica y Electrónica de la Universidad de Burgos.
+* ### Este proyecto forma parte de la asignatura de Sistemas Basados en Microprocesadores y consiste en la creación y programación mediante Arduino Uno de un robot BB-8 capaz de desplazarse en todas las direcciones a través del control remoto via bluetooth.
 
 ---
 <br/>
