@@ -1,11 +1,32 @@
-* ## Antes de que bajes para ver el montaje de nuestro BB-8 nos gustaría presentarnos 😊:
-  ### Somos PCEDA, un grupo de alumnos de Ingeniería Mecánica y Electrónica de la Universidad de Burgos.
-* ### Este proyecto forma parte de la asignatura de Sistemas Basados en Microprocesadores y consiste en la creación y programación mediante Arduino Uno de un robot BB-8 capaz de desplazarse en todas las direcciones a través del control remoto via bluetooth.
+* ## Este proyecto forma parte de la asignatura de Sistemas Basados en Microprocesadores y consiste en la creación y programación mediante Arduino Uno de un robot BB-8 capaz de desplazarse en todas las direcciones a través del control remoto via bluetooth.
+
+ * ## Antes de que sigas bajando para ver el montaje y funcionamiento de nuestro BB-8 nos gustaría presentarnos 😊:
+  ### Somos PCEDA, un grupo de alumnos de _Ingeniería Mecánica y Electrónica_ de la Universidad de Burgos.
+  <img src="https://github.com/PCEDA/BB-8/assets/169154663/35794453-2826-47b0-bad8-dabac0d7b672" alt="Foto Grupo" width="300"/>
+  
+  ![Foto Grupo](https://github.com/PCEDA/BB-8/assets/169154663/35794453-2826-47b0-bad8-dabac0d7b672)
+
 
 ---
 <br/>
 
-* ### I suggest using svg icons in all of your sections(for best appearance in mobile and desktop) , that is why inside this repo you will find an SVG Icons File.You can download any svg that works for you and place it in your README!
+* En el repositorio podrás encontrar el código en Arduino Uno que hemos utilizado para programas el funcionamiento de nuestro BB-8, sin embargo; si lo que deseas es saber qué piezas y métodos hemos necesitado para su montaje y funcionamiento físico estás en el lugar adecuado.
+
+### Antes de nada debes saber que hemos utilizado la aplicación Dabble sincronizada mediante un chip bluetooth HC-05 como el mostrado a continuación para poder controlar el moviemiento del robot a través de un joystick.
+
+![Bluetooth Atrás](https://github.com/PCEDA/BB-8/assets/169154663/b3c85976-2bb5-47d0-8d31-c0aeb6551590)
+Parte trasera y conexiones
+![Bluetooth Delante](https://github.com/PCEDA/BB-8/assets/169154663/eb4a68ad-f5e8-47ec-8afe-40721c5a18be)
+Parte delantera
+
+* ## Si nos centramos en los elementos motrices del proyecto, vamos a necesitar dos motores como el mostrado en la figura, al igual que sus respectivas ruedas (importante que estas sean las de la imagen ya que estas al rodar describen un círculo) y una pila para así poder alimentar los motores losciclos necesarios para testear el funcionamiento.
+![Motor](https://github.com/PCEDA/BB-8/assets/169154663/0cf6c82b-fd1d-4f61-ae5c-7cea10beab54)
+![Ruedas](https://github.com/PCEDA/BB-8/assets/169154663/8c722b81-c45c-46a0-ad7e-fb61e0d660e2)
+![Pila](https://github.com/PCEDA/BB-8/assets/169154663/fc1a06ce-79ac-4850-9e8f-77e37f926ca5)
+
+- ## Además de utilizar la placa Arduino Uno, requeriremos de un driver para controlar más específicamente los dos motores.
+![Driver](https://github.com/PCEDA/BB-8/assets/169154663/d7c51210-929e-4922-b8fe-f0f6f93bec72)
+
 
 ---
 <br/>
