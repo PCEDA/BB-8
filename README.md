@@ -16,9 +16,9 @@ Parte trasera
 Parte delantera
 
 * ### Si nos centramos en los elementos motrices del proyecto, vamos a necesitar dos motores como el mostrado en la figura, al igual que sus respectivas ruedas (importante que estas sean las de la imagen ya que estas al rodar describen un círculo) y una pila para así poder alimentar los motores losciclos necesarios para testear el funcionamiento.
-<img src="https://github.com/PCEDA/BB-8/assets/169154663/0cf6c82b-fd1d-4f61-ae5c-7cea10beab54" alt="Motor" width="300"/>
-<img src="https://github.com/PCEDA/BB-8/assets/169154663/8c722b81-c45c-46a0-ad7e-fb61e0d660e2" alt="Ruedas" width="300"/>
-<img src="https://github.com/PCEDA/BB-8/assets/169154663/fc1a06ce-79ac-4850-9e8f-77e37f926ca5" alt="Pila" width="300"/>
+<img src="https://github.com/PCEDA/BB-8/assets/169154663/0cf6c82b-fd1d-4f61-ae5c-7cea10beab54" alt="Motor" width="200"/>
+<img src="https://github.com/PCEDA/BB-8/assets/169154663/8c722b81-c45c-46a0-ad7e-fb61e0d660e2" alt="Ruedas" width="200"/>
+<img src="https://github.com/PCEDA/BB-8/assets/169154663/fc1a06ce-79ac-4850-9e8f-77e37f926ca5" alt="Pila" width="200"/>
 
 - ### Además de utilizar la placa Arduino Uno, requeriremos de un driver para controlar más específicamente los dos motores.
 <img src="https://github.com/PCEDA/BB-8/assets/169154663/d7c51210-929e-4922-b8fe-f0f6f93bec72" alt="Driver" width="300"/>
